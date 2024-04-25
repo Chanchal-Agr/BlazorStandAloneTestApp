@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,19 +47,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorECommerceApp\\BlazorECommerceApp\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "BlazorECommerceApp\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorECommerceApp\\BlazorECommerceApp\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "BlazorECommerceApp\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T13:00:19.368Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -95,8 +82,7 @@
               "RelativeToolTip": "BlazorECommerceApp\\Services\\UserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T12:41:54.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T12:41:54.876Z"
             },
             {
               "$type": "Document",
@@ -106,10 +92,22 @@
               "RelativeDocumentMoniker": "BlazorECommerceApp\\Pages\\ProfileList.razor.cs",
               "ToolTip": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorECommerceApp\\BlazorECommerceApp\\Pages\\ProfileList.razor.cs",
               "RelativeToolTip": "BlazorECommerceApp\\Pages\\ProfileList.razor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABGAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T12:36:27.717Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorECommerceApp\\BlazorECommerceApp\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BlazorECommerceApp\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorECommerceApp\\BlazorECommerceApp\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BlazorECommerceApp\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:00:19.368Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "BlazorECommerceApp\\Pages\\ProfileList.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T08:23:54.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T08:23:54.111Z"
             }
           ]
         }
