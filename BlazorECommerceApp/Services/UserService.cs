@@ -1,5 +1,6 @@
 ﻿using BlazorECommerceApp.DTOs;
 using BlazorECommerceApp.Interfaces;
+using System.Net.Http.Json;
 using System.Text.Json;
 
 namespace BlazorECommerceApp.Services
@@ -15,12 +16,9 @@ namespace BlazorECommerceApp.Services
         {
             try
             {
-                var apiRes = await httpClient.GetStreamAsync("User/GetAllProfiles");
-                var profiles = await JsonSerializer.DeserializeAsync<List<UserDto>>(apiRes, new JsonSerializerOptions
-                {
-                    PropertyNameCaseInsensitive = true
-                });
-                return profiles;
+                var apiRes = await httpClient.GetFromJsonAsync<IEnumerable<UserDto>>("User/GetAllProfiles");
+                
+                return apiRes.ToList();
             }
             catch (Exception x)
             {

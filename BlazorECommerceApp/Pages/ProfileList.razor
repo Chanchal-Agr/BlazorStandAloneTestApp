@@ -24,10 +24,4 @@ else
     </ul>
 }
 
-@code {
-    IEnumerable<UserDto> profiles = null;
-    protected override async Task OnInitializedAsync()
-    {
-        profiles = await UserService.GetAllProfiles();
-    }
-}
+
