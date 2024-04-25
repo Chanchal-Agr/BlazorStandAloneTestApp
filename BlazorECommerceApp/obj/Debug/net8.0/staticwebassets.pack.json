@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorUserCrud\\BlazorStandAloneAppEcommerce\\BlazorECommerceApp\\BlazorECommerceApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorUserCrud\\BlazorStandAloneAppEcommerce\\BlazorECommerceApp\\BlazorECommerceApp\\obj\\Debug\\net8.0\\compressed\\s3p0mfao4u.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorUserCrud\\BlazorStandAloneAppEcommerce\\BlazorECommerceApp\\BlazorECommerceApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorECommerceApp.styles.css",
+      "PackagePath": "staticwebassets\\BlazorECommerceApp.styles.css"
+    },
+    {
+      "Id": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorUserCrud\\BlazorStandAloneAppEcommerce\\BlazorECommerceApp\\BlazorECommerceApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorUserCrud\\BlazorStandAloneAppEcommerce\\BlazorECommerceApp\\BlazorECommerceApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorUserCrud\\BlazorStandAloneAppEcommerce\\BlazorECommerceApp\\BlazorECommerceApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorUserCrud\\BlazorStandAloneAppEcommerce\\BlazorECommerceApp\\BlazorECommerceApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorUserCrud\\BlazorStandAloneAppEcommerce\\BlazorECommerceApp\\BlazorECommerceApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorUserCrud\\BlazorStandAloneAppEcommerce\\BlazorECommerceApp\\BlazorECommerceApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Chanchal_Assignment\\BlazorProjects\\BlazorUserCrud\\BlazorStandAloneAppEcommerce\\BlazorECommerceApp\\BlazorECommerceApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorECommerceApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorECommerceApp.props",
+      "PackagePath": "build\\BlazorECommerceApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorECommerceApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorECommerceApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorECommerceApp.props",
+      "PackagePath": "buildTransitive\\BlazorECommerceApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

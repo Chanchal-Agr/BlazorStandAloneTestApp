@@ -1,0 +1,33 @@
+﻿@page "/profiles"
+@using BlazorECommerceApp.Interfaces
+@using BlazorECommerceApp.DTOs
+@inject IUserService UserService
+<h3>ProfileList</h3>
+
+@if (profiles == null)
+{
+    <span>Loading..</span>
+}
+else if (profiles.Count() == 0)
+{
+    <span>No profiles found</span>
+}
+else
+{
+    <ul>
+        @foreach (var profile in profiles)
+        {
+
+            <li>@profile.Name</li>
+
+        }
+    </ul>
+}
+
+@code {
+    IEnumerable<UserDto> profiles = null;
+    protected override async Task OnInitializedAsync()
+    {
+        profiles = await UserService.GetAllProfiles();
+    }
+}
